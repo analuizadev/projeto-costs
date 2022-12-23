@@ -1,0 +1,60 @@
+.footer{
+    background-color: #222;
+    color: white;
+    text-align: center;
+}
+
+.footer span{
+    font-weight: bold;
+    color: #ffbb33;
+}
+
+.lang_list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+.lang_list li{
+    margin: 0 .6em;
+}
+
+.lang_list svg{
+    font-size: 25px;
+    color: #ffbb33bc;
+}
+
+.social_list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 20px;
+}
+
+.social_list li{
+    margin: 0 .6em;
+    cursor: pointer;
+    transition: ease-out 1s;
+}
+
+.social_list li a{
+    color: white;
+}
+
+.social_list li a:hover{
+    color: #ffbb33;
+}
+
+.social_list li svg{
+    font-size: 20px;
+}
+
+.social_list li svg:hover{
+    font-size: 25px;
+}
+
+
+
+
