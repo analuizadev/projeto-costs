@@ -7,20 +7,45 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 5000,
+      "services": [
+        {
+          "name": "aaaa",
+          "cost": "5000",
+          "description": "aaaaaaaaa",
+          "id": "aefc7eda-c84b-465e-84bd-9bb713cf6c04"
+        }
+      ],
       "id": 4
     },
     {
       "name": "Projeto Atual",
       "budget": "5000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1200,
+      "services": [
+        {
+          "name": "Contratar Dev Front-end",
+          "cost": "1200",
+          "description": "Estilizar a página",
+          "id": "cc5f6089-df4e-4c95-819e-10573324d229"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "aa",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 5
+      "id": 6
     }
   ],
   "categories": [
