@@ -1,15 +1,15 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './componetes/pages/Home';
-import Contact from './componetes/pages/Contact';
-import NewProject from './componetes/pages/NewProject';
-import Company from './componetes/pages/Company';
-import Projects from './componetes/pages/Projects';
-import Project from './componetes/pages/Project';
+import Home from './componentes/pages/Home';
+import Contact from './componentes/pages/Contact';
+import NewProject from './componentes/pages/NewProject';
+import Company from './componentes/pages/Company';
+import Projects from './componentes/pages/Projects';
+import Project from './componentes/pages/Project';
 
-import Container from './componetes/layout/Container';
-import NavBar from './componetes/layout/NavBar';
-import Footer from './componetes/layout/Footer';
+import Container from './componentes/layout/Container';
+import NavBar from './componentes/layout/NavBar';
+import Footer from './componentes/layout/Footer';
 
 function App() {
   return (

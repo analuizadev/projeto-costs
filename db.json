@@ -1,50 +1,51 @@
 {
   "projects": [
     {
-      "name": "Projeto Jara",
-      "budget": "40000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 5000,
-      "services": [
-        {
-          "name": "aaaa",
-          "cost": "5000",
-          "description": "aaaaaaaaa",
-          "id": "aefc7eda-c84b-465e-84bd-9bb713cf6c04"
-        }
-      ],
-      "id": 4
-    },
-    {
       "name": "Projeto Atual",
       "budget": "5000",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 1200,
+      "cost": 3545,
       "services": [
         {
           "name": "Contratar Dev Front-end",
           "cost": "1200",
           "description": "Estilizar a página",
           "id": "cc5f6089-df4e-4c95-819e-10573324d229"
+        },
+        {
+          "description": "a",
+          "cost": "2345",
+          "name": "A",
+          "id": "9ed52a38-1828-4552-bee2-3be894ee5dc6"
         }
       ],
       "id": 5
     },
     {
-      "name": "aa",
+      "name": "Amazon",
       "budget": "4000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2100,
+      "services": [
+        {
+          "name": "ana",
+          "cost": "100",
+          "description": "aaa",
+          "id": "ad407c11-4d7b-46d8-bfa5-d21783c87804"
+        },
+        {
+          "name": "Contrato Dev Front end",
+          "cost": "2000",
+          "description": "Desenvolver home page da amazon prime video",
+          "id": "a5e03fc7-f3ac-49bc-a00e-c53de6b31ee4"
+        }
+      ],
       "id": 6
     }
   ],
